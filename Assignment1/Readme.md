@@ -5,4 +5,4 @@ Read an training file and test file (files are in the ARFF format.)
 
 Learn a decision tree and use it to classify the test file.
 
-Usage:  dt-learn <train-set-file> <test-set-file> m
+Usage:  dt-learn (train-set-file) (test-set-file) m
